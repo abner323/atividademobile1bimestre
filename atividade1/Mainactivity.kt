@@ -57,7 +57,7 @@ fun MessageCard(msg: Message) {
 @Preview
 @Composable
 fun PreviewMessageCard() {
-    ComposeTutorialTheme {
+    atividade 1 b{
         Surface {
             MessageCard(
                 msg = Message("Lexi", "Dê uma olhada no Jetpack Compose, é ótimo!"")
