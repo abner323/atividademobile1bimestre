@@ -1,4 +1,4 @@
-package edu.example.atividade 1 b
+package edu.example.atividade1b
 
 import androidx.compose.runtime.mutableStateOf
 
